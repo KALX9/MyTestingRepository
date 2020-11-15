@@ -5,3 +5,7 @@ Enjoy the festivities with exciting offers across brands because this Diwali, yo
 
 
 Get the most out of your new inbox by quickly and easily marking all of your previously read notifications as done.
+
+Now we'll push the commit in your branch to your new GitHub repo. This allows other people to see the changes you've made. If they're approved by the repository's owner, the changes can then be merged into the primary branch.
+
+To push changes onto a new branch on GitHub, you'll want to run git push origin yourbranchname. GitHub will automatically create the branch for you on the remote repository: 
